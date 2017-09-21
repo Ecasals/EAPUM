@@ -1,0 +1,167 @@
+#desk {
+    background-image: url(../../media/img/desk.png);
+    position: fixed;
+    top: 55%;
+    left: -2.5%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 1;
+    width: 37%;
+    height: 32%;
+}
+
+#chair {
+    background-image: url(../../media/img/cahir.png);
+    position: fixed;
+    top: 53%;
+    left: 37.4%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 1;
+    width: 12%;
+    height: 31%;
+}
+
+#couch {
+    background-image: url(../../media/img/couch.png);
+    position: fixed;
+    top: 46%;
+    left: 65%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 1;
+    width: 33%;
+    height: 46%;
+}
+
+#row {
+    background-image: url(../../media/img/row.png);
+    position: fixed;
+    top: 20%;
+    left: 33%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 5%;
+    height: 63%;
+}
+
+#float {
+    background-image: url(../../media/img/float.png);
+    position: fixed;
+    top: 59%;
+    left: 56.5%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 17%;
+    height: 26%;
+}
+
+#horse {
+    background-image: url(../../media/img/horse_wall.png);
+    position: fixed;
+    top: 3%;
+    left: 81.5%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 25%;
+    height: 47%;
+}
+
+#ropes {
+    background-image: url(../../media/img/ropes.png);
+    position: fixed;
+    top: -3%;
+    left: -2.5%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 51%;
+    height: 39%;
+}
+
+#flags {
+    background-image: url(../../media/img/flags.png);
+    position: fixed;
+    top: -1%;
+    left: -2.5%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 25%;
+    height: 23%;
+}
+
+#ship {
+    background-image: url(../../media/img/ship.png);
+    position: fixed;
+    top: 15%;
+    left: -4.5%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 31%;
+    height: 40%;
+}
+
+#window_fe {
+    background-image: url(../../media/img/window_fish_eye/window_fish_eye.png);
+    position: fixed;
+    top: -18%;
+    left: 61%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 5;
+    width: 19%;
+    height: 49%;
+}
+
+#window_fe_back {
+    background-image: url(../../media/img/window_fish_eye/window_back.png);
+    position: fixed;
+    top: 6.8%;
+    left: 62%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 18%;
+    height: 23%;
+}
+
+#window_fe_shadow {
+    background-image: url(../../media/img/window_fish_eye/window_shadow.png);
+    position: fixed;
+    top: 6.8%;
+    left: 62%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 3;
+    width: 17%;
+    height: 22%;
+}
+
+#window_fe_lh {
+    background-image: url(../../media/img/lighthouse.png);
+    position: fixed;
+    top: 12.8%;
+    left: 62%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 8%;
+    height: 13%;
+}
+
+#earth {
+    background-image: url(../../media/img/earthballon.png);
+    position: fixed;
+    top: 38%;
+    left: 10.5%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    width: 10%;
+    height: 17%
+}
